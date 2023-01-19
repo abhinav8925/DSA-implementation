@@ -1,4 +1,4 @@
-# DSA-implementation
+# Data Structure-implementation
 It contains implementation of almost all the data structures;
 
 
