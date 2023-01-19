@@ -107,6 +107,7 @@ void deleteatlast()
 {
     cout << endl << "*** DELETE AT LAST ***" <<endl;
     int x;
+    
     if(head==NULL)
         cout << "Linked List is empty" << endl;
     else
